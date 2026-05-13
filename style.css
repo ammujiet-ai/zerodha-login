@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    background: rgb(255, 255, 255);
+    
+    height:100vh;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+
+.login-box{
+    width:320px;
+    background: white;
+    padding:40px;
+
+    border-radius:9px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
+    text-align:center;
+
+
+    }
+.logo{
+
+    width:60px;
+
+    margin-bottom:20px;
+
+}
